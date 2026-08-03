@@ -1,0 +1,9 @@
+[project]
+name = "security-models"
+version = "0.1.0"
+description = "Shared security domain models for Athena AI Analyst."
+requires-python = ">=3.12"
+
+dependencies = [
+    "pydantic>=2.8"
+]
